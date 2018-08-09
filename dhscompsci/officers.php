@@ -21,7 +21,8 @@
 
 	<!-- Main Page -->
 	<div class="container" style="height:100%;">
-		<h1 class="display-3">Officers</h1>
+		<div class="row"></div>
+		<h1 class="display-3">2018-2019 Officers</h1>
 		<hr class="style14">
 	</div>
 
